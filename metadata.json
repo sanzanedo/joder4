@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DELE AI Tutor monólogo",
+  "description": "Un tutor inteligente para practicar la descripción de imágenes para el examen DELE B2 usando Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
